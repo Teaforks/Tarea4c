@@ -8,7 +8,7 @@ import javax.swing.JLabel;
  */
 class Main extends JFrame{
     public Main(){
-        JLabel lblSaludo = new JLabel("Hola Mundo.");
+        JLabel lblSaludo = new JLabel("Hola Mundo. ¡¡Y tú!!");
         JLabel lblSaludo2 = new JLabel("¿Qué tal estás, Romario?.");
         JLabel lblSaludo3 = new JLabel("¡Espero que bien! ¡Yo estoy genial!");
         add(lblSaludo);
